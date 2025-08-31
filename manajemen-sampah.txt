@@ -3,4 +3,5 @@ Disertasi Resolusi
 - mempelajari hal-hal teknis terkait pembuatan website Model Sistem Informasi Manajemen Pengelolaan Sampah berbasis Web (tools pembuatan websitenya)
 - mempelajari tools AI untuk manajemen sampah (pemilahan, pengumpulan, penentuan rute dan lokasi pembuangan sampah)
 - melakukan penelitian dari bagian-bagain kecil disertasi dan mempublikasikan hasil penelitian tersebut
+- konsisten konsultasi dengan promotor dan co-promotor (minimal 1 x seminggu)
 - menulis laporan akhir disertasi
