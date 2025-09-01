@@ -1,0 +1,5 @@
+Rencan Pengujian Sistem Manajemen Sampah
+- pengujian AI untuk pemilahan
+- pengujian AI untuk penentuan rute
+- pengujian AI untuk penentuan lokasi TPA
+- pengujian AI untuk prediksi timbulan
